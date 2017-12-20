@@ -1,0 +1,5 @@
+export const registerActionTypes = {
+  REQUEST: 'REGISTER_REQUEST',
+  SUCCESS: 'REGISTER_SUCCESS',
+  FAILURE: 'REGISTER_FAILURE',
+};

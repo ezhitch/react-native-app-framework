@@ -1,0 +1,5 @@
+export const fetchAuthcodeActionTypes = {
+  REQUEST: 'FETCH_AUTHCODE_REQUEST',
+  SUCCESS: 'FETCH_AUTHCODE_SUCCESS',
+  FAILURE: 'FETCH_AUTHCODE_FAILURE',
+};
